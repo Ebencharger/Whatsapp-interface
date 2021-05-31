@@ -1,0 +1,159 @@
+.container-fluid, .row, .col-sm, .card-body {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  height: 3000px;
+}
+
+.x-fluid {
+  position: sticky;
+  top: -60px;
+}
+
+.bg-success {
+  border-radius: 0px;
+  height: 120px;
+  background-color: #146614 !important;
+  color: white;
+  padding: 20px;
+}
+.bg-success i {
+  margin-left: 40px;
+  margin-top: 6px;
+}
+.bg-success .downlist {
+  margin-top: 27px;
+  margin-left: -10px;
+}
+.bg-success .downlist i {
+  font-size: 20px;
+  margin-left: -10px;
+}
+.bg-success .downlist .nav-item {
+  margin-left: 0px;
+}
+.bg-success .downlist .move {
+  margin-left: 6px;
+}
+.bg-success .nav-link {
+  color: white;
+  margin-left: 5px;
+}
+.bg-success .nav-tabs .nav-link.active,
+.bg-success .nav-tabs .nav-item.show .nav-link {
+  color: white;
+  background-color: transparent;
+  border-color: transparent;
+}
+.bg-success .nav-tabs {
+  border-bottom: none;
+}
+.bg-success .nav-link.nav-link.active {
+  border-bottom: 3px solid white;
+}
+.bg-success .nav-tabs .nav-link {
+  border: none;
+}
+.bg-success .tab-pane {
+  padding: 0px;
+  margin: 0px;
+}
+.bg-success .tab-content {
+  position: absolute;
+  top: 120px;
+  width: 100%;
+  padding: 0px;
+  left: 0px;
+}
+
+.container {
+  width: 100% !important;
+  height: 100px;
+  padding: 0px;
+  margin-left: 0px;
+}
+
+.chatmage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+
+.name {
+  font-size: 21px;
+}
+
+.date {
+  padding-top: 6px;
+  padding-left: 80px;
+}
+
+.pro {
+  flex-wrap: wrap;
+  margin-top: -70px;
+  margin-left: 70px;
+}
+
+.lasm {
+  margin-top: 30px;
+  padding-left: 15px;
+}
+.lasm i {
+  color: green;
+  transform: rotate(40deg);
+}
+
+.red i {
+  padding-left: 40px !important;
+}
+
+.xtra {
+  border: 5px dashed green;
+}
+
+.mo {
+  margin-top: -3px;
+}
+
+.deman {
+  width: 100%;
+  height: 40px;
+  background-color: rgba(129, 127, 127, 0.4);
+  margin-top: -15px;
+  display: flex;
+  align-items: center;
+}
+
+.callline {
+  margin-top: -20px !important;
+  margin-left: 100px;
+}
+
+.float, .float1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  background-color: #52f852;
+  border-radius: 100%;
+  top: 570px;
+  left: 80%;
+}
+
+.float1 {
+  width: 50px;
+  height: 50px;
+  background-color: white;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  top: 504px;
+  left: 81%;
+}
+
+/*# sourceMappingURL=whatsapp.css.map */
